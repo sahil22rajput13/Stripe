@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stripe</string>
+    <string name="payment_configuration">payment_configuration</string>
+    <string name="make_payment">Make Payment!</string>
+</resources>

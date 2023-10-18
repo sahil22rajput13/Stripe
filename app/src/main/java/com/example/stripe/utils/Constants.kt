@@ -1,0 +1,6 @@
+package com.example.stripe.utils
+
+const val PUBLISHABLE_KEY = "pk_test_51O2SGcSD6RAieXytWgUartjvSrFXAfhboDcudql1Wlw8lzev7Q2MyxYQS5lnLcgMhrhKoxxdjAS5LK17e27Edx8j00F985N35z"
+const val BEARER_TOKEN = "sk_test_51O2SGcSD6RAieXyt6amDeuAwlCxBMG4QpoltSfKjyV8zzM7TPrx65KutjR1jDHcme5oOVY9CWfHNPOTJTfCk6mjY00KDuQGFWs"
+
+
